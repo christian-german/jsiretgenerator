@@ -135,6 +135,9 @@
                         <version>1.4.0</version>
                         <configuration>
                             <jreleaser>
+                                <project>
+                                    <copyright>2022 Christian German</copyright>
+                                </project>
                                 <signing>
                                     <active>ALWAYS</active>
                                     <armored>true</armored>
